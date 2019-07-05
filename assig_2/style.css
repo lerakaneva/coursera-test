@@ -25,7 +25,7 @@ h1 {
 
 section {
   height: 100%;
-  border: 2px solid black;
+  border: 1px solid black;
   position: relative;
 }
 
@@ -61,7 +61,7 @@ h2{
   font-size: 125%;
   top: 0px;
   right: 0px;
-  border: 2px solid black;
+  border: 1px solid black;
   padding: 5px;
   position: absolute;
 }
